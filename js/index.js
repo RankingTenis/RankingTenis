@@ -29,7 +29,6 @@ fetch('jogos-fase1.json')
             <img class='imagemP' src='./images/bandeiras/${jogo.visitante}' alt='' />
         </td>
 
-        <td class='esquerda'>${jogo.estadio}</td>
     `
 })
 )
