@@ -125,7 +125,6 @@ fetch('oitavas-de-final.json')
                 <span class='gols'>${jogo.gols_visitante}</span>
                 <img class='imagemP' src='./images/bandeiras/${jogo.img_visitante}' />
             </h4>
-            <h5>${jogo.estadio}</h5>
             <h6>Prorrogação: ${jogo.prorrogacao}</h6>
             <h6>Pênaltis: ${jogo.penaltis}</h6>
             <h6>Placar dos Pênaltis: ${jogo.placar_penaltis}</h6>
@@ -194,7 +193,6 @@ fetch('quartas-de-final.json')
                 <input type='number' min='0' max='99' class='gols golsVisitante' value='${jogo.gols_visitante}'>
                 <img class='imagemP' src='./images/bandeiras/${jogo.img_visitante}' />
             </h4>
-            <h5>${jogo.estadio}</h5>
             <h6>Prorrogação: ${jogo.prorrogacao}</h6>
             <h6>Pênaltis: ${jogo.penaltis}</h6>
             <h6>Placar de pênaltis: ${jogo.placar_penaltis}</h6>
