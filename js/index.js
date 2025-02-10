@@ -18,7 +18,6 @@ fetch('jogos-fase1.json')
         <td>${jogo.diaSemana}</td>
         <td>${jogo.data}</td>
         <td>${jogo.hora}</td>
-        <td>${jogo.grupo}</td>
         <td class='centralizar'>
             <img class='imagemP' src='./images/bandeiras/${jogo.mandante}' alt='' />
             <span class='gols'>${jogo.gols_mandante}</span>
