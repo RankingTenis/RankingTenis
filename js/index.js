@@ -45,11 +45,12 @@ function exibirTabelaClassificacao(letraGrupo) {
     fetch(`classificacaoGrupoA.json`)
     .then( resposta => resposta.json() )
     .then( dados => {
+        console.log(dados)
         // ORDENAR OS DADOS DO ARRAY COM OBJETOS
         dados.sort(function compararNumeros(a, b) {
             return a.posicao - b.posicao
         })
-        
+        console.log(dados)
         dados.forEach( (selecao, indice) => {
             // console.log(dados)
             // console.log(selecao)
