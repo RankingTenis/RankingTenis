@@ -45,7 +45,7 @@ table tr td {
 
 .centralizar {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     gap: 0.5rem;
 }
@@ -54,6 +54,10 @@ table tr td {
     height: 30px;
     display: flex;
     justify-content: center;
+}
+
+.partida {
+    width: 70%;
 }
 
 .gols {
