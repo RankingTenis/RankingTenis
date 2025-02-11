@@ -15,7 +15,6 @@ fetch('jogos-fase1.json')
 
     // preencher os dados do jogo em cada linha da tabela
     linha.innerHTML = `
-        <td>${jogo.diaSemana}</td>
         <td>${jogo.data}</td>
         <td>${jogo.hora}</td>
         <td class='centralizar'>
