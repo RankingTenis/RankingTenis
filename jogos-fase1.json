@@ -35,9 +35,9 @@
         "data": "xx/xx/xxxx",
         "hora": "xx:xx",
         "estadio": "",
-        "gols_mandante": "x",
+        "gols_mandante": "8",
         "partida": "Édson/ Ale x Nestor / Cleusa",
-        "gols_visitante": "x",
+        "gols_visitante": "1",
         "mandante": "",
         "visitante": ""
     },
@@ -54,5 +54,19 @@
         "gols_visitante": "x",
         "mandante": "",
         "visitante": ""
-    }
+    },
+    {
+        "id": 5,
+        "grupo": "",
+        "rodada": 1,
+        "diaSemana": "DOM",
+        "data": "xx/xx/xxxx",
+        "hora": "xx:xx",
+        "estadio": "",
+        "gols_mandante": "x",
+        "partida": "Alexandre / Lala x Du/ Rafa",
+        "gols_visitante": "x",
+        "mandante": "",
+        "visitante": ""
+    },
 ]
