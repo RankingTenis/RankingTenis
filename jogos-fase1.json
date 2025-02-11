@@ -54,19 +54,5 @@
         "gols_visitante": "x",
         "mandante": "",
         "visitante": ""
-    },
-    {
-        "id": 5,
-        "grupo": "",
-        "rodada": 1,
-        "diaSemana": "DOM",
-        "data": "xx/xx/xxxx",
-        "hora": "xx:xx",
-        "estadio": "",
-        "gols_mandante": "x",
-        "partida": "Alexandre / Lala x Du/ Rafa",
-        "gols_visitante": "x",
-        "mandante": "",
-        "visitante": ""
-    },
+    }
 ]
