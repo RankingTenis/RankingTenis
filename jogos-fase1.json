@@ -133,9 +133,9 @@
         "data": " ",
         "hora": "  ",
         "estadio": "",
-        "gols_mandante": "x",
+        "gols_mandante": "Win",
         "partida": "Chico/Giovana x Pedro/Eva",
-        "gols_visitante": "x",
+        "gols_visitante": "WO",
         "mandante": "",
         "visitante": ""
     },
@@ -273,9 +273,9 @@
         "data": " ",
         "hora": "  ",
         "estadio": "",
-        "gols_mandante": "x",
+        "gols_mandante": "Win",
         "partida": "Du/Rafa x Pedro/Eva",
-        "gols_visitante": "x",
+        "gols_visitante": "WO",
         "mandante": "",
         "visitante": ""
     }
