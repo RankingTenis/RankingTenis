@@ -105,9 +105,9 @@
         "data": " ",
         "hora": "  ",
         "estadio": "",
-        "gols_mandante": "x",
+        "gols_mandante": "8",
         "partida": "Toninho/Maria Luiza x Juninho/Amanda",
-        "gols_visitante": "x",
+        "gols_visitante": "9",
         "mandante": "",
         "visitante": ""
     },
@@ -175,9 +175,9 @@
         "data": " ",
         "hora": "  ",
         "estadio": "",
-        "gols_mandante": "x",
+        "gols_mandante": "Win",
         "partida": "Leandro/Thais x Marco/Renata",
-        "gols_visitante": "x",
+        "gols_visitante": "WO",
         "mandante": "",
         "visitante": ""
     },
