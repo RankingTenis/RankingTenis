@@ -39,7 +39,7 @@ let tabelaClassificacao = document.querySelector('.tabelaClassificacao')
 let linhas = document.querySelectorAll('.corpoClassificacao tr')
 // console.log(linhas)
 
-exibirTabelaClassificacao('Fev')
+exibirTabelaClassificacao('Mar')
 
 function exibirTabelaClassificacao(letraGrupo) {
     // atualizar letra do grupo no index.html
