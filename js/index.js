@@ -15,16 +15,21 @@ fetch('jogos-fase1.json')
 
     // preencher os dados do jogo em cada linha da tabela
     linha.innerHTML = `
+        <td>${jogo.diaSemana}</td>
         <td>${jogo.data}</td>
         <td>${jogo.hora}</td>
+        <td>${jogo.grupo}</td>
         <td class='centralizar'>
+            <img class='imagemP' src='./images/bandeiras/${jogo.mandante}' alt='' />
             <span class='gols'>${jogo.gols_mandante}</span>
 
             <span class='partida'>${jogo.partida}</span>
 
             <span class='gols'>${jogo.gols_visitante}</span>
+            <img class='imagemP' src='./images/bandeiras/${jogo.visitante}' alt='' />
         </td>
 
+        <td class='esquerda'>${jogo.estadio}</td>
     `
 })
 )
@@ -34,22 +39,21 @@ let tabelaClassificacao = document.querySelector('.tabelaClassificacao')
 let linhas = document.querySelectorAll('.corpoClassificacao tr')
 // console.log(linhas)
 
-exibirTabelaClassificacao('A')
+exibirTabelaClassificacao('Fev')
 
 function exibirTabelaClassificacao(letraGrupo) {
     // atualizar letra do grupo no index.html
     document.querySelector('.letra').innerHTML = letraGrupo
 
     // ler json das classificações
-    fetch(`classificacaoGrupoA.json`)
+    fetch(`classificacaoGrupo${letraGrupo}.json`)
     .then( resposta => resposta.json() )
     .then( dados => {
-        console.log(dados)
         // ORDENAR OS DADOS DO ARRAY COM OBJETOS
         dados.sort(function compararNumeros(a, b) {
             return a.posicao - b.posicao
         })
-        console.log(dados)
+        
         dados.forEach( (selecao, indice) => {
             // console.log(dados)
             // console.log(selecao)
@@ -65,13 +69,6 @@ function exibirTabelaClassificacao(letraGrupo) {
                 <td>${selecao.posicao}</td>
                 <td>${selecao.selecao}</td>
                 <td>${selecao.pontos}</td>
-                <td>${selecao.jogos}</td>
-                <td>${selecao.vitorias}</td>
-                <td>${selecao.empates}</td>
-                <td>${selecao.derrotas}</td>
-                <td>${selecao.gols_pro}</td>
-                <td>${selecao.gols_contra}</td>
-                <td>${selecao.saldo_de_gols}</td>
             `
         })
     }
@@ -90,6 +87,59 @@ selectLetra.addEventListener('change', (event) => {
     // console.log(event.target.value)
     exibirTabelaClassificacao(event.target.value)
 })
+
+
+
+//inico
+let tabelaClassificacaoa = document.querySelector('.tabelaClassificacaoa')
+// console.log(tabelaClassificacaoa)
+let linhasa = document.querySelectorAll('.corpoClassificacaoa tr')
+// console.log(linhasa)
+
+exibirTabelaClassificacaoa('A')
+
+function exibirTabelaClassificacaoa(letraGrupo) {
+    // atualizar letra do grupo no index.html
+    document.querySelector('.letra').innerHTML = letraGrupo
+
+    // ler json das classificações
+    fetch(`classificacaoGrupo${letraGrupo}.json`)
+    .then( resposta => resposta.json() )
+    .then( dados => {
+        // ORDENAR OS DADOS DO ARRAY COM OBJETOS
+        dados.sort(function compararNumeros(a, b) {
+            return a.posicao - b.posicao
+        })
+        
+        dados.forEach( (selecao, indice) => {
+            // console.log(dados)
+            // console.log(selecao)
+    
+            // criar linhar tr
+            // let linhaa = document.createElement('tr')
+        
+            // colocar ela como filho dentro da tabela
+            // tabelaClassificacaoa.appendChild(linhaa)
+        
+            // preencher os dados
+            linhasa[indice].innerHTML = `
+                <td>${selecao.posicao}</td>
+                <td>${selecao.selecao}</td>
+                <td>${selecao.pontos}</td>
+                <td>${selecao.jogos}</td>
+                <td>${selecao.vitorias}</td>
+                <td>${selecao.empates}</td>
+                <td>${selecao.derrotas}</td>
+                <td>${selecao.gols_pro}</td>
+                <td>${selecao.gols_contra}</td>
+                <td>${selecao.saldo_de_gols}</td>
+            `
+        })
+    }
+    )
+}
+
+//fim
 
 // OITAVAS DE FINAL
 let divOitavas = document.querySelector('.divOitavas')
@@ -122,6 +172,7 @@ fetch('oitavas-de-final.json')
                 <span class='gols'>${jogo.gols_visitante}</span>
                 <img class='imagemP' src='./images/bandeiras/${jogo.img_visitante}' />
             </h4>
+            <h5>${jogo.estadio}</h5>
             <h6>Prorrogação: ${jogo.prorrogacao}</h6>
             <h6>Pênaltis: ${jogo.penaltis}</h6>
             <h6>Placar dos Pênaltis: ${jogo.placar_penaltis}</h6>
@@ -140,6 +191,7 @@ fetch('https://worldcupjson.net/matches/tomorrow/?by_date=DESC')
         console.log(jogo.home_team_country + " x " + jogo.away_team_country) 
     })
 })
+
 
 // QUARTAS DE FINAL
 let divQuartas = document.querySelector('.divQuartas')
@@ -190,6 +242,7 @@ fetch('quartas-de-final.json')
                 <input type='number' min='0' max='99' class='gols golsVisitante' value='${jogo.gols_visitante}'>
                 <img class='imagemP' src='./images/bandeiras/${jogo.img_visitante}' />
             </h4>
+            <h5>${jogo.estadio}</h5>
             <h6>Prorrogação: ${jogo.prorrogacao}</h6>
             <h6>Pênaltis: ${jogo.penaltis}</h6>
             <h6>Placar de pênaltis: ${jogo.placar_penaltis}</h6>
