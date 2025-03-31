@@ -27,7 +27,7 @@
 		"gols_pro": 21,
 		"gols_contra": 29,
 		"saldo_de_gols": -8,
-		"posicao": 9,
+		"posicao": 10,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -43,7 +43,7 @@
 		"gols_pro": 24,
 		"gols_contra": 10,
 		"saldo_de_gols": 14,
-		"posicao": 7,
+		"posicao": 8,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -75,7 +75,7 @@
 		"gols_pro": 32,
 		"gols_contra": 17,
 		"saldo_de_gols": 15,
-		"posicao": 3,
+		"posicao": 4,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -91,7 +91,7 @@
 		"gols_pro": 13,
 		"gols_contra": 30,
 		"saldo_de_gols": -17,
-		"posicao": 10,
+		"posicao": 11,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -123,7 +123,7 @@
 		"gols_pro": 30,
 		"gols_contra": 13,
 		"saldo_de_gols": 17,
-		"posicao": 2,
+		"posicao": 3,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -131,15 +131,15 @@
 		"selecao": " Alexandre/Larissa",
 		"bandeira": "",
 		"grupo": "A",
-		"pontos": 20,
-		"jogos": 2,
-		"vitorias": 2,
+		"pontos": 40,
+		"jogos": 4,
+		"vitorias": 4,
 		"empates": 0,
 		"derrotas": 0,
-		"gols_pro": 16,
-		"gols_contra": 10,
-		"saldo_de_gols": 6,
-		"posicao": 12,
+		"gols_pro": 32,
+		"gols_contra": 19,
+		"saldo_de_gols": 13,
+		"posicao": 2,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -203,7 +203,7 @@
 		"gols_pro": 16,
 		"gols_contra": 4,
 		"saldo_de_gols": 12,
-		"posicao": 11,
+		"posicao": 12,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -235,7 +235,7 @@
 		"gols_pro": 27,
 		"gols_contra": 28,
 		"saldo_de_gols": -1,
-		"posicao": 8,
+		"posicao": 9,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -251,7 +251,7 @@
 		"gols_pro": 28,
 		"gols_contra": 21,
 		"saldo_de_gols": 7,
-		"posicao": 4,
+		"posicao": 5,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -267,7 +267,7 @@
 		"gols_pro": 28,
 		"gols_contra": 29,
 		"saldo_de_gols": -1,
-		"posicao": 6,
+		"posicao": 7,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -283,7 +283,7 @@
 		"gols_pro": 31,
 		"gols_contra": 25,
 		"saldo_de_gols": 6,
-		"posicao": 5,
+		"posicao": 6,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
