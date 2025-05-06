@@ -59,7 +59,7 @@
 		"gols_pro": 36,
 		"gols_contra": 35,
 		"saldo_de_gols": 1,
-		"posicao": 15,
+		"posicao": 14,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -75,7 +75,7 @@
 		"gols_pro": 48,
 		"gols_contra": 22,
 		"saldo_de_gols": 26,
-		"posicao": 3,
+		"posicao": 2,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -123,7 +123,7 @@
 		"gols_pro": 47,
 		"gols_contra": 25,
 		"saldo_de_gols": 22,
-		"posicao": 2,
+		"posicao": 3,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -171,7 +171,7 @@
 		"gols_pro": 29,
 		"gols_contra": 34,
 		"saldo_de_gols": -5,
-		"posicao": 14,
+		"posicao": 15,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -208,7 +208,7 @@
 		"vermelhos": 0
 	},
 		{
-		"selecao": "Fernando/Michelli",
+		"selecao": "Capellini/Michelli",
 		"bandeira": "",
 		"grupo": "A",
 		"pontos": 25,
