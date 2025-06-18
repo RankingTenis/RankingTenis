@@ -34,16 +34,16 @@
 	{
 		"selecao": "Édson/Ale x Marco/Renata",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 6,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Nestor/Cleusa x Capellini/Michelli",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 1,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -67,7 +67,7 @@
 		"selecao": "Alexandre/Lala x Pitoco/Silvana",
 		"grupo": "A",
 		"pontos": 0,
-		"posicao": 0,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -122,7 +122,7 @@
 	{
 		"selecao": "Nestor/Cleusa x Toninho/Maria Luiza",
 		"grupo": "A",
-		"pontos": 0,
+		"pontos": 8,
 		"posicao": 0,
 		"amarelos": 6,
 		"vermelhos": 0
