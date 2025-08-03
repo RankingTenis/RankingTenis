@@ -26,8 +26,8 @@
 	{
 		"selecao": "Luiz F/Raquel x Gugu/Vanessa",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 4,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -50,7 +50,7 @@
 	{
 		"selecao": "Quirino/Marina x Toninho/Maria Luiza",
 		"grupo": "A",
-		"pontos": 0,
+		"pontos": 8,
 		"posicao": 0,
 		"amarelos": 6,
 		"vermelhos": 0
@@ -58,8 +58,8 @@
 	{
 		"selecao": "Tio/Bianca x Juninho/Amanda",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 7,
+		"posicao": 9,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -74,16 +74,16 @@
 	{
 		"selecao": "Du/Rafa x Cacá/Gi",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 9,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Carita/Luciana x Marcelo/Fernanda",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 8,
+		"posicao": 6,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -130,7 +130,7 @@
 	{
 		"selecao": "Quirino/Marina x Juninho/Amanda",
 		"grupo": "A",
-		"pontos": 0,
+		"pontos": 8,
 		"posicao": 0,
 		"amarelos": 6,
 		"vermelhos": 0
@@ -139,15 +139,15 @@
 		"selecao": "Tio/Bianca x Pitoco/Silvana",
 		"grupo": "A",
 		"pontos": 0,
-		"posicao": 0,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Alexandre/Lala x Cacá/Gi",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 8,
+		"posicao": 1,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
