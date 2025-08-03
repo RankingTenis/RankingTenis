@@ -18,8 +18,8 @@
 	{
 		"selecao": "Paulo/Orjana x Marco/Renata",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 8,
+		"posicao": 1,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -27,23 +27,23 @@
 		"selecao": "Gugu/Vanessa x Capellini/Michelli",
 		"grupo": "A",
 		"pontos": 0,
-		"posicao": 0,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Édson/Ale x Quirino/Marina",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 4,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Chico/Giovana x Juninho/Amanda",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 4,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -51,7 +51,7 @@
 		"selecao": "Toninho/Maria Luiza x Pitoco/Silvana",
 		"grupo": "A",
 		"pontos": 0,
-		"posicao": 0,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -82,8 +82,8 @@
 	{
 		"selecao": "Carita/Luciana x Édson/Ale",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 8,
+		"posicao": 6,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -91,39 +91,39 @@
 		"selecao": "Chico/Giovana x Capellini/Michelli",
 		"grupo": "A",
 		"pontos": 0,
-		"posicao": 0,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Leandro/Thais x Alexandre/Lala",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 3,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Tio/Bianca x Luiz F/Raquel",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 3,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Toninho/Maria Luiza x Marco/Renata",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 3,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Juninho/Amanda x Cacá/Gi",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 6,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -138,24 +138,24 @@
 	{
 		"selecao": "Gugu/Vanessa x Marcelo/Fernanda",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 5,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Pitoco/Silvana x Paulo/Orjana",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 8,
+		"posicao": 2,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Du/Rafa x Nestor/Cleusa",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 1,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	}
