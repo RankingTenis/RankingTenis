@@ -26,7 +26,7 @@
 	{
 		"selecao": "Quirino/Marina x Cacá/Gi",
 		"grupo": "A",
-		"pontos": 0,
+		"pontos": 8,
 		"posicao": 0,
 		"amarelos": 6,
 		"vermelhos": 0
@@ -34,15 +34,15 @@
 	{
 		"selecao": "Alexandre/Larissa x Marcelo/Fernanda.S",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 6,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Paulo/Orjana x Du/Rafa",
 		"grupo": "A",
-		"pontos": 0,
+		"pontos": 8,
 		"posicao": 0,
 		"amarelos": 6,
 		"vermelhos": 0
@@ -50,24 +50,24 @@
 	{
 		"selecao": "Marco/Renata x Léo/Fernanda",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 5,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Toninho/Maria Luiza x Luiz Fernando/Raquel",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 4,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Pitoco/Silvana x Nestor/Cleusa",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 7,
+		"posicao": 9,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -90,24 +90,24 @@
 	{
 		"selecao": "Marco/Renata x Cacá/Gi",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 8,
+		"posicao": 2,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Carita/Luciana x Nestor/Cleusa",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 2,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Tio/Bianca x Leandro/Thaís",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 8,
+		"posicao": 6,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
@@ -122,16 +122,16 @@
 	{
 		"selecao": "Léo/Fernanda x Du/Rafa",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 8,
+		"posicao": 5,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
 		"selecao": "Édson/Ale x Luiz Fernando/Raquel",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
+		"pontos": 6,
+		"posicao": 8,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
