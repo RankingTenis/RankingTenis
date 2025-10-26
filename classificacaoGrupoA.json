@@ -43,7 +43,7 @@
 		"gols_pro": 103,
 		"gols_contra": 95,
 		"saldo_de_gols": 8,
-		"posicao": 16,
+		"posicao": 15,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -315,7 +315,7 @@
 		"gols_pro": 86,
 		"gols_contra": 114,
 		"saldo_de_gols": -28,
-		"posicao": 15,
+		"posicao": 16,
 		"amarelos": 0,
 		"vermelhos": 0
 	}
