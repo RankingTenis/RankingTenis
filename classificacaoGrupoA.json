@@ -48,7 +48,7 @@
 		"vermelhos": 0
 	},
 	{
-		"selecao": "Léo/Fernanda",
+		"selecao": "Frego/Fernanda",
 		"bandeira": "",
 		"grupo": "A",
 		"pontos": 120,
@@ -59,7 +59,7 @@
 		"gols_pro": 117,
 		"gols_contra": 91,
 		"saldo_de_gols": 26,
-		"posicao": 11,
+		"posicao": 13,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -155,7 +155,7 @@
 		"gols_pro": 116,
 		"gols_contra": 101,
 		"saldo_de_gols": 15,
-		"posicao": 12,
+		"posicao": 11,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -187,7 +187,7 @@
 		"gols_pro": 109,
 		"gols_contra": 90,
 		"saldo_de_gols": 19,
-		"posicao": 6,
+		"posicao": 10,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -203,7 +203,7 @@
 		"gols_pro": 127,
 		"gols_contra": 99,
 		"saldo_de_gols": 28,
-		"posicao": 8,
+		"posicao": 9,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -267,7 +267,7 @@
 		"gols_pro": 90,
 		"gols_contra": 130,
 		"saldo_de_gols": -40,
-		"posicao": 13,
+		"posicao": 12,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
