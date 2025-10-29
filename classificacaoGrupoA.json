@@ -83,7 +83,7 @@
 		"selecao": "Nestor/Cleusa",
 		"bandeira": "",
 		"grupo": "A",
-		"pontos": 100,
+		"pontos": 105,
 		"jogos": 19,
 		"vitorias": 2,
 		"empates": 17,
@@ -219,7 +219,7 @@
 		"gols_pro": 22,
 		"gols_contra": 136,
 		"saldo_de_gols": -114,
-		"posicao": 19,
+		"posicao": 20,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -299,7 +299,7 @@
 		"gols_pro": 48,
 		"gols_contra": 127,
 		"saldo_de_gols": -79,
-		"posicao": 20,
+		"posicao": 19,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
