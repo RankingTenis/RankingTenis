@@ -27,7 +27,7 @@
 		"gols_pro": 119,
 		"gols_contra": 111,
 		"saldo_de_gols": 8,
-		"posicao": 8,
+		"posicao": 9,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -139,7 +139,7 @@
 		"gols_pro": 110,
 		"gols_contra": 97,
 		"saldo_de_gols": 13,
-		"posicao": 7,
+		"posicao": 8,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -195,7 +195,7 @@
 		"selecao": "Marco/Renata",
 		"bandeira": "",
 		"grupo": "A",
-		"pontos": 140,
+		"pontos": 150,
 		"jogos": 19,
 		"vitorias": 12,
 		"empates": 6,
@@ -203,7 +203,7 @@
 		"gols_pro": 127,
 		"gols_contra": 99,
 		"saldo_de_gols": 28,
-		"posicao": 9,
+		"posicao": 6,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -235,7 +235,7 @@
 		"gols_pro": 122,
 		"gols_contra": 51,
 		"saldo_de_gols": 71,
-		"posicao": 6,
+		"posicao": 7,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
