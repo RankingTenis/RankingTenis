@@ -51,7 +51,7 @@
 		"selecao": "Frego/Fernanda",
 		"bandeira": "",
 		"grupo": "A",
-		"pontos": 120,
+		"pontos": 135,
 		"jogos": 18,
 		"vitorias": 9,
 		"empates": 9,
@@ -59,7 +59,7 @@
 		"gols_pro": 117,
 		"gols_contra": 91,
 		"saldo_de_gols": 26,
-		"posicao": 13,
+		"posicao": 11,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -155,7 +155,7 @@
 		"gols_pro": 116,
 		"gols_contra": 101,
 		"saldo_de_gols": 15,
-		"posicao": 11,
+		"posicao": 12,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -267,7 +267,7 @@
 		"gols_pro": 90,
 		"gols_contra": 130,
 		"saldo_de_gols": -40,
-		"posicao": 12,
+		"posicao": 13,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
