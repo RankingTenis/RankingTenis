@@ -27,7 +27,7 @@
 		"gols_pro": 119,
 		"gols_contra": 111,
 		"saldo_de_gols": 8,
-		"posicao": 9,
+		"posicao": 10,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -43,7 +43,7 @@
 		"gols_pro": 111,
 		"gols_contra": 109,
 		"saldo_de_gols": 2,
-		"posicao": 15,
+		"posicao": 14,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -139,7 +139,7 @@
 		"gols_pro": 116,
 		"gols_contra": 105,
 		"saldo_de_gols": 11,
-		"posicao": 8,
+		"posicao": 9,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -171,7 +171,7 @@
 		"gols_pro": 74,
 		"gols_contra": 122,
 		"saldo_de_gols": -48,
-		"posicao": 14,
+		"posicao": 15,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
@@ -187,7 +187,7 @@
 		"gols_pro": 112,
 		"gols_contra": 98,
 		"saldo_de_gols": 14,
-		"posicao": 10,
+		"posicao": 8,
 		"amarelos": 0,
 		"vermelhos": 0
 	},
