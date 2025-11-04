@@ -24,49 +24,49 @@
 		"vermelhos": 0
 	},
 	{
-		"selecao": " x ",
+		"selecao": "Toninho/Maria Luiza x Gugu/Vanessa",
+		"grupo": "A",
+		"pontos": 3,
+		"posicao": 8,
+		"amarelos": 6,
+		"vermelhos": 0
+	},
+	{
+		"selecao": "Carita/Luciana x Alexandre/Larissa",
+		"grupo": "A",
+		"pontos": 6,
+		"posicao": 8,
+		"amarelos": 6,
+		"vermelhos": 0
+	},
+	{
+		"selecao": "Toninho/Maria Luiza x Cacá/Gi",
+		"grupo": "A",
+		"pontos": 5,
+		"posicao": 8,
+		"amarelos": 6,
+		"vermelhos": 0
+	},
+	{
+		"selecao": "Tio/Bianca x Carita/Luciana",
 		"grupo": "A",
 		"pontos": 0,
+		"posicao": 8,
+		"amarelos": 6,
+		"vermelhos": 0
+	},
+	{
+		"selecao": "Capellini/Marcela x Cacá/Gi",
+		"grupo": "A",
+		"pontos": 8,
 		"posicao": 0,
 		"amarelos": 6,
 		"vermelhos": 0
 	},
 	{
-		"selecao": " x ",
+		"selecao": "Capellini/Marcela x Toninho/Maria Luiza",
 		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
-		"amarelos": 6,
-		"vermelhos": 0
-	},
-	{
-		"selecao": " x ",
-		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
-		"amarelos": 6,
-		"vermelhos": 0
-	},
-	{
-		"selecao": " x ",
-		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
-		"amarelos": 6,
-		"vermelhos": 0
-	},
-	{
-		"selecao": " x ",
-		"grupo": "A",
-		"pontos": 0,
-		"posicao": 0,
-		"amarelos": 6,
-		"vermelhos": 0
-	},
-	{
-		"selecao": " x ",
-		"grupo": "A",
-		"pontos": 0,
+		"pontos": 8,
 		"posicao": 0,
 		"amarelos": 6,
 		"vermelhos": 0
@@ -159,6 +159,7 @@
 		"amarelos": 6,
 		"vermelhos": 0
 	}
+
 
 
 ]
